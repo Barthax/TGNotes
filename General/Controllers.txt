@@ -1,0 +1,19 @@
+Platform-specific: Vectrex only original controller.
+http://www.twingalaxies.com/showthread.php/120211-Rules-on-interchanging-Genesis-2600-controllers
+
+Platform-specific: TurboGrafx-16 permits turbo controller.
+(no ref yet)
+
+Non-arcade
+----------
+Third-party controllers permitted.
+Can use cross-platform controllers (MegaDrive/Genesis on Atari 2600, for example).
+http://www.twingalaxies.com/showthread.php/120211-Rules-on-interchanging-Genesis-2600-controllers
+http://www.twingalaxies.com/showthread.php/157409-Atari-2600-Genesis-controller-allowed
+http://www.twingalaxies.com/showthread.php/133555-Can-I-use-the-joystick-and-Genesis-at-the-same-time
+
+Swapping controllers:
+http://www.twingalaxies.com/showthread.php/133555-Can-I-use-the-joystick-and-Genesis-at-the-same-time
+
+Augmented input is banned (turbo or rapid-fire devices, etc.).
+http://www.twingalaxies.com/showthread.php/128907-NES-Advantage-and-NES-Max
