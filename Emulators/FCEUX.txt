@@ -1,0 +1,10 @@
+Guidelines for use:
+
+* Use version 2.2.0.
+* Must play Windowed - cheats & playbacks can be hidden if footage is full screen-only.
+* Show the Cheats menu option is empty.
+* Enable the Display Counter: Config > Display > FPS (shows a tick when enabled).
+* Game Genie off: Config > Game Genie (shows a tick when enabled).
+* PAL Emulation off: Config > PAL Emulation (shows a tick when enabled).
+* Show the Turbo input options are disabled: Config > Input, Configure > Turbo A and Turbo B.
+* Optionally Display the Inputs: Config > Display > Input Display.
