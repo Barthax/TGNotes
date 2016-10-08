@@ -1,5 +1,6 @@
 Guidelines for use:
 
+* Use at least v2 VICE
 * Use Reset to factory defaults (PAL C64).
 * Show C64 model.
 * Optionally adjust inputs.
