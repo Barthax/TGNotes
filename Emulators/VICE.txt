@@ -1,0 +1,5 @@
+Guidelines for use:
+
+* Use Reset to factory defaults (PAL C64).
+* Show C64 model.
+* Optionally adjust inputs.
