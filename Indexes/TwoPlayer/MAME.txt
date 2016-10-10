@@ -1,9 +1,6 @@
 1941: Counter Attack (World)
 Rules, Two Player: http://www.twingalaxies.com/scores.php?scores=11877
 
-1941: Counter Attack (World)
-Rules, Two Player: http://www.twingalaxies.com/scores.php?scores=11877
-
 1943 Kai: Midway Kaisen (Japan)
 Rules, Two Player: http://www.twingalaxies.com/scores.php?scores=40876
 
@@ -51,9 +48,6 @@ Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=4
 
 Alien Syndrome (set 4, System 16B, unprotected)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=17090
-
-Alligator Hunt (unprotected)
-Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=21435
 
 Alligator Hunt (unprotected)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=21435
@@ -136,9 +130,6 @@ The Combatribes (US)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=120376
 
 Daioh (set 2) / Daioh (earlier)
-Rules, Two Player Team: http://www.twingalaxies.com/scores.php?scores=26072
-
-Daioh
 Rules, Two Player Team: http://www.twingalaxies.com/scores.php?scores=26072
 
 DoDonPachi (Japan, Master Ver. 97/02/05)
@@ -354,4 +345,3 @@ Rules, Two Player Team: http://www.twingalaxies.com/scores.php?scores=120662&ref
 
 Zing Zing Zip
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=18685
-

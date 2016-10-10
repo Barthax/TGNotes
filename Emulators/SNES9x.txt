@@ -1,7 +1,9 @@
 Guidelines for use:
 
 * Use version 1.53.
+* Can delete the Saves and Cheats folders.
 * Play Windowed.
 * Cheats off: Cheat > Apply Cheats (shows a tick when enabled).
 * Show Frame Rate: Video > Show Frame Rate (shows a tick when enabled).
 * Load game and show ROM details: File > ROM Information.
+* Optionally change input configuration.
