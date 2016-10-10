@@ -83,14 +83,20 @@ Rules, Points [Maximum Force Duo, Two Player Team]: http://www.twingalaxies.com/
 Area 51 (R3000)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=41130
 
+Armed Police Batrider
+Rules, Points [Boss Mode - Two Player]: http://www.twingalaxies.com/scores.php?scores=41138
+Rules, Points [Two Player Team - Advance Mode]: http://www.twingalaxies.com/scores.php?scores=11847
+Rules, Points [Two Player Team - Normal Mode]: http://www.twingalaxies.com/scores.php?scores=11849
+Rules, Points [Two Player Team - Training Mode]: http://www.twingalaxies.com/scores.php?scores=11851
+
 Armored Warriors (Euro 941011)
 Rules, Two Player: http://www.twingalaxies.com/scores.php?scores=11899
 
 Ashura Blaster (Japan)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=10690
 
-Ashura Blaster (Japan)
-Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=10690
+Asterix (ver EAD)
+Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=21479
 
 The Astyanax
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=120369
@@ -110,6 +116,22 @@ Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=1
 Bubble Bobble (Japan, Ver 0.1)
 Rules, Points [Two Player Team] [Super Bubble Bobble Mode]: http://www.twingalaxies.com/scores.php?scores=41815
 
+Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1996)
+Rules, Points [2 Player Team]: http://www.twingalaxies.com/scores.php?scores=11923
+
+Batsugun (set 2)
+Rules, Points [2 Player Team]: http://www.twingalaxies.com/scores.php?scores=11915
+
+Born To Fight
+Rules, Points [2 Player Team]: http://www.twingalaxies.com/scores.php?scores=24377
+
+B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin
+Rules, Fastest Completion [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=21912
+Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=21910
+
+Bomb Kick (set 1)
+Rules, Points [2 Player Team]: http://www.twingalaxies.com/scores.php?scores=24433
+
 The Combatribes (US)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=120376
 
@@ -124,9 +146,6 @@ Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=2
 
 DoDonPachi (Japan, Master Ver. 97/02/05)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=22926
-
-U.N. Defense Force: Earth Joker (Japan)
-Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=120504
 
 Final Fight (World, set 1)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=14432
@@ -316,6 +335,9 @@ Rules, Midnight Wanderers, Quest For The Chariot [Points, Two Player Team]: http
 
 Twin Cobra (World)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=10782
+
+U.N. Defense Force: Earth Joker (Japan)
+Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=120504
 
 U.N. Squadron (USA)
 Rules, Points [Two Player Team]: http://www.twingalaxies.com/scores.php?scores=14472
