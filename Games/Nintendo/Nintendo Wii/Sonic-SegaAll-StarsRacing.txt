@@ -1,0 +1,1 @@
+Various tracks have "Weapons & Power-Ups: On" but there are three settings: Off, Basic, All.  "All" equates to everything being On and so is presumed the intended setting.
