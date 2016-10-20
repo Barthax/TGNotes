@@ -1,0 +1,3 @@
+v1.01 awards lots of extra balls but only scores 99K for loops.  v1.02 awards far less extra balls but 999K for loops... or something like that.
+
+All Little Wing titles: v2.0.1 is the final CD release.  Versions after this are download-only versions.  There is no difference in game play: only the key-code stuff changed.
