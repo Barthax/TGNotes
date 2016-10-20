@@ -1,0 +1,1 @@
+Wii consoles are backwards compatible and can be used for GameCube submissions (manually timed submissions have not been tested). 
