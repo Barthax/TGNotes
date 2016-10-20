@@ -1,0 +1,1 @@
+Wii-U consoles are backwards compatible and can be used for Wii submissions (manually timed submissions have not been tested). 
