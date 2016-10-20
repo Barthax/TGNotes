@@ -1,2 +1,3 @@
 Original FAQ: http://www.twingalaxies.com/showthread.php/116948-Nes-Official-Submission-Guidelines-March-20th-2008
 
+No cloned systems.  NES-101 versions are region free but the CPU is still bound to the refresh rate: American NES-101 run at NTSC rates, Austrlian NES-101 run at PAL rates.  NES-101 is therefore only permitted for submissions to its intended region.
