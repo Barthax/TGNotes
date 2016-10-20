@@ -1,0 +1,1 @@
+The game regularly adds 0.01 to Time Attack's Best Lap times if the gamer uses End Session (but not always).  John Brissie's submissions can be used as the basis for seeing this in action.
