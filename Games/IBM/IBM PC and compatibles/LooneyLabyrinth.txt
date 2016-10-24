@@ -1,3 +1,33 @@
 v1.01 awards lots of extra balls but only scores 99K for loops.  v1.02 awards far less extra balls but 999K for loops... or something like that.
 
 All Little Wing titles: v2.0.1 is the final CD release.  Versions after this are download-only versions.  There is no difference in game play: only the key-code stuff changed.
+
+http://www.twingalaxies.com/showthread.php/163396-PC-Looney-Labyrinth-default-settings-24-196-790-Andrew-Mee?p=865700
+Tips from Robert Mruczek:
+----
+ANdrew, this one is even more complex in terms of goals than Caliburn, although it is by far the easier of the two as far as getting a high score.
+
+Here are the goals...and the last one is a huge challenge.
+
+-> The objective is to first find and activate the time machine, and then go back to ancient times and defeat the Minotaur.
+
+-> In the first part, the goal is to collect all the five galopetra stones and install them to activate the machine. The ball has to hit drop targets near the stone ramp to make one of the STONE light letters start flashing. One stone is collected by sending the ball up the ramp while the light is blinking. Getting all the stones awards five million points. To install them, the ball has to hit several times the energy charger bumper, raising the energy level to 100% and turning on the install hole.
+
+-> After traveling to 2000 B.C., the music changes and a multiball starts to indicate the switch. The goal is to rescue nine human sacrifices and kill the Minotaur. The LOONY LABYRINTH lights at the center of the table turn on to show the number of hostages, turning off with every saved victim. Shooting the labyrinth ramp rescues them one at time. After everyone is safe, a multiball starts where the player must sink three balls in the Minotaur chamber before the moon phase indicators near the flippers turn off, to defeat the creature and win the game.
+
+You seem to be playing the second version of the game...the biggest differences are as follows...
+
+1st - you can earn one (1) extra ball per game ball...the earliest version was set to unlimited
+2nd - when you start to time travel (deep into the game) the earlier version crashed around 32,000-38,000 A.D. where as the newer version crashed around 56,000-59,000 A.D.
+3rd - the loony ramps capped out at 99K in the earlier version (the end of wave bonus) but the newer version capped out at 999K to make up for far fewer extra ball opportunities
+
+You will find that the toughest part of the games are as follows...
+
+-> Getting the energy up to 100% (Hard)
+-> Installing the stones (Very Hard)
+-> Killing the minotaur (Hardest)
+
+Good luck !! You should try turning on the background music...it's not that bad :) 
+----
+BTW, should you reach the final multi-ball phase where you must kill the minotaur, the "Moon Phase" countdown indicators are right by the flipper area (FYI). And "Auto Battle" in this game I THINK is the purplish-glowing indicators surrounding "Loony" in mid-center. 
+----
