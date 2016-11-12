@@ -1,0 +1,3 @@
+Manual: http://atariage.com/manual_html_page.php?SoftwareLabelID=142
+Submission reference: http://www.twingalaxies.com/showthread.php/164082-Atari-2600-VCS-Dishaster-NTSC-Game-1-Difficulty-B-1-049-520-Steve-Germershausen
+- Difficulty switches have no effect on the game play.
